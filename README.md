@@ -162,5 +162,5 @@ nltk.download('stopwords')
 ```
 ### 5️⃣ Run the App
 ```bash
-5️⃣ Run the App
+streamlit run app.py
 ```
