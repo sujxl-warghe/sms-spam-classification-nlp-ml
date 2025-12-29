@@ -127,6 +127,7 @@ Help Guide:
 https://support.google.com/accounts/answer/185833
 
 ---
+## 📂 Repository Structure
 ```text
 spam-classifier/
 │
